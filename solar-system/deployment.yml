@@ -16,7 +16,7 @@ spec: invalid yaml here!!!
         app: solar-system
     spec:
       containers:
-      - image: siddharth67/solar-system:v99            
+      - image: siddharth67/solar-system:v999           
         name: solar-system
         imagePullPolicy: Always
         ports: 
